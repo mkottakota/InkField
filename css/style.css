@@ -1113,7 +1113,7 @@ h3.subheading-w3-agile {
 /*-- Reservation --*/
 
 .reserve-bg-w3 {
-	background: url(../images/y2.jpg)no-repeat 0px 0px;
+	background: url(y2.jpg)no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
